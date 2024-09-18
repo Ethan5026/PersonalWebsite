@@ -1,0 +1,29 @@
+.App{
+}
+.App-header {
+  color: white;
+}
+.App-container {
+}
+.flex-box{
+  display: flex;
+}
+.text-align-center{
+  text-align: center
+}
+.text-align-start{
+  text-align: left
+}
+.App-link {
+  color: #61dafb;
+}
+.sliding-container {
+  /* Ensuring the component doesn't affect layout until the animation completes */
+  will-change: transform;
+}
+canvas {
+  overflow: hidden;
+  width:100vw;
+  height:100vh;
+  background-color:black;
+}
