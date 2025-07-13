@@ -1,7 +1,7 @@
 {
   "name": "ethan-gruening-website",
   "version": "0.1.0",
-  "homepage": "https://Ethan5026.github.io/personal",
+  "homepage": "https://ethan5026.github.io/PersonalWebsite",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
